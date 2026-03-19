@@ -1,0 +1,4 @@
+price_volatility,demand_change,supplier_delay,inventory_level,transport_cost,risk_level
+10,5,2,70,15,Low
+30,25,10,40,45,High
+20,15,5,55,30,Medium
